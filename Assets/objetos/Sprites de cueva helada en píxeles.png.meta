@@ -1,0 +1,2431 @@
+fileFormatVersion: 2
+guid: 9da6b46178701914696b62524c10f413
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5606585298155510659
+    second: "Sprites de cueva helada en p\xEDxeles_0"
+  - first:
+      213: -4446973228774116654
+    second: "Sprites de cueva helada en p\xEDxeles_1"
+  - first:
+      213: -5913063752265122006
+    second: "Sprites de cueva helada en p\xEDxeles_2"
+  - first:
+      213: 576067946461975110
+    second: "Sprites de cueva helada en p\xEDxeles_3"
+  - first:
+      213: -6679348434993598154
+    second: "Sprites de cueva helada en p\xEDxeles_4"
+  - first:
+      213: -3270563940904401683
+    second: "Sprites de cueva helada en p\xEDxeles_5"
+  - first:
+      213: 7403957811141812402
+    second: "Sprites de cueva helada en p\xEDxeles_6"
+  - first:
+      213: 5857645837976066700
+    second: "Sprites de cueva helada en p\xEDxeles_7"
+  - first:
+      213: -2260943211341049727
+    second: "Sprites de cueva helada en p\xEDxeles_8"
+  - first:
+      213: 6084323887213417976
+    second: "Sprites de cueva helada en p\xEDxeles_9"
+  - first:
+      213: 6187941980620862586
+    second: "Sprites de cueva helada en p\xEDxeles_10"
+  - first:
+      213: -5941568235674029606
+    second: "Sprites de cueva helada en p\xEDxeles_11"
+  - first:
+      213: -583661109975517575
+    second: "Sprites de cueva helada en p\xEDxeles_12"
+  - first:
+      213: -5309676273190841596
+    second: "Sprites de cueva helada en p\xEDxeles_13"
+  - first:
+      213: 5489768330429160506
+    second: "Sprites de cueva helada en p\xEDxeles_14"
+  - first:
+      213: -7873532775481105570
+    second: "Sprites de cueva helada en p\xEDxeles_15"
+  - first:
+      213: -4974607107252954935
+    second: "Sprites de cueva helada en p\xEDxeles_16"
+  - first:
+      213: 2011144436478861311
+    second: "Sprites de cueva helada en p\xEDxeles_17"
+  - first:
+      213: -5292094344945001579
+    second: "Sprites de cueva helada en p\xEDxeles_18"
+  - first:
+      213: 2876894754701644569
+    second: "Sprites de cueva helada en p\xEDxeles_19"
+  - first:
+      213: -887214504053535308
+    second: "Sprites de cueva helada en p\xEDxeles_20"
+  - first:
+      213: 6566471750397496931
+    second: "Sprites de cueva helada en p\xEDxeles_21"
+  - first:
+      213: -4436117099074254400
+    second: "Sprites de cueva helada en p\xEDxeles_22"
+  - first:
+      213: -6172619241094636066
+    second: "Sprites de cueva helada en p\xEDxeles_23"
+  - first:
+      213: -1383997998507353762
+    second: "Sprites de cueva helada en p\xEDxeles_24"
+  - first:
+      213: -3351366706933216722
+    second: "Sprites de cueva helada en p\xEDxeles_25"
+  - first:
+      213: 6933238511556718088
+    second: "Sprites de cueva helada en p\xEDxeles_26"
+  - first:
+      213: 6465875015039911555
+    second: "Sprites de cueva helada en p\xEDxeles_27"
+  - first:
+      213: -1961746458259923037
+    second: "Sprites de cueva helada en p\xEDxeles_28"
+  - first:
+      213: -1610307126070315098
+    second: "Sprites de cueva helada en p\xEDxeles_29"
+  - first:
+      213: -152388701274643456
+    second: "Sprites de cueva helada en p\xEDxeles_30"
+  - first:
+      213: 5299977502596966615
+    second: "Sprites de cueva helada en p\xEDxeles_31"
+  - first:
+      213: 1392783750364669472
+    second: "Sprites de cueva helada en p\xEDxeles_32"
+  - first:
+      213: 6529148476631626818
+    second: "Sprites de cueva helada en p\xEDxeles_33"
+  - first:
+      213: -5713811620959185905
+    second: "Sprites de cueva helada en p\xEDxeles_34"
+  - first:
+      213: 2507205418377682373
+    second: "Sprites de cueva helada en p\xEDxeles_35"
+  - first:
+      213: -2794801130728248235
+    second: "Sprites de cueva helada en p\xEDxeles_36"
+  - first:
+      213: -2689251258791989209
+    second: "Sprites de cueva helada en p\xEDxeles_37"
+  - first:
+      213: 6855830959895885903
+    second: "Sprites de cueva helada en p\xEDxeles_38"
+  - first:
+      213: 4399335152265935358
+    second: "Sprites de cueva helada en p\xEDxeles_39"
+  - first:
+      213: -1178182983631882586
+    second: "Sprites de cueva helada en p\xEDxeles_40"
+  - first:
+      213: 8891860576409085025
+    second: "Sprites de cueva helada en p\xEDxeles_41"
+  - first:
+      213: -8523825626740874112
+    second: "Sprites de cueva helada en p\xEDxeles_42"
+  - first:
+      213: -7116059196599498305
+    second: "Sprites de cueva helada en p\xEDxeles_43"
+  - first:
+      213: -1817230038857136471
+    second: "Sprites de cueva helada en p\xEDxeles_44"
+  - first:
+      213: -7399986656035195855
+    second: "Sprites de cueva helada en p\xEDxeles_45"
+  - first:
+      213: -5758631658509112143
+    second: "Sprites de cueva helada en p\xEDxeles_46"
+  - first:
+      213: -8756547640199247779
+    second: "Sprites de cueva helada en p\xEDxeles_47"
+  - first:
+      213: -66392864351608695
+    second: "Sprites de cueva helada en p\xEDxeles_48"
+  - first:
+      213: -955560236069728956
+    second: "Sprites de cueva helada en p\xEDxeles_49"
+  - first:
+      213: 6139670074385125209
+    second: "Sprites de cueva helada en p\xEDxeles_50"
+  - first:
+      213: 4747292771902009229
+    second: "Sprites de cueva helada en p\xEDxeles_51"
+  - first:
+      213: 753953596121829863
+    second: "Sprites de cueva helada en p\xEDxeles_52"
+  - first:
+      213: 5646909153591191483
+    second: "Sprites de cueva helada en p\xEDxeles_53"
+  - first:
+      213: -222570675451934495
+    second: "Sprites de cueva helada en p\xEDxeles_54"
+  - first:
+      213: -4724026033436090823
+    second: "Sprites de cueva helada en p\xEDxeles_55"
+  - first:
+      213: -8562651988709862940
+    second: "Sprites de cueva helada en p\xEDxeles_56"
+  - first:
+      213: 4441736105245376804
+    second: "Sprites de cueva helada en p\xEDxeles_57"
+  - first:
+      213: 997778994320272702
+    second: "Sprites de cueva helada en p\xEDxeles_58"
+  - first:
+      213: -3248209833890889351
+    second: "Sprites de cueva helada en p\xEDxeles_59"
+  - first:
+      213: -8440612312316309105
+    second: "Sprites de cueva helada en p\xEDxeles_60"
+  - first:
+      213: 4784472910747593432
+    second: "Sprites de cueva helada en p\xEDxeles_61"
+  - first:
+      213: 1646280430310376846
+    second: "Sprites de cueva helada en p\xEDxeles_62"
+  - first:
+      213: 4323717567878052981
+    second: "Sprites de cueva helada en p\xEDxeles_63"
+  - first:
+      213: -5691058358287410170
+    second: "Sprites de cueva helada en p\xEDxeles_64"
+  - first:
+      213: -8925152578964388070
+    second: "Sprites de cueva helada en p\xEDxeles_65"
+  - first:
+      213: -1323837086474367460
+    second: "Sprites de cueva helada en p\xEDxeles_66"
+  - first:
+      213: 7880407089549075664
+    second: "Sprites de cueva helada en p\xEDxeles_67"
+  - first:
+      213: -4508030811136529708
+    second: "Sprites de cueva helada en p\xEDxeles_68"
+  - first:
+      213: -1774051480867867673
+    second: "Sprites de cueva helada en p\xEDxeles_69"
+  - first:
+      213: 1603293807067133236
+    second: "Sprites de cueva helada en p\xEDxeles_70"
+  - first:
+      213: -2857547356180928452
+    second: "Sprites de cueva helada en p\xEDxeles_71"
+  - first:
+      213: 368707952066314777
+    second: "Sprites de cueva helada en p\xEDxeles_72"
+  - first:
+      213: -3763476167100375491
+    second: "Sprites de cueva helada en p\xEDxeles_73"
+  - first:
+      213: 3693322279537279945
+    second: "Sprites de cueva helada en p\xEDxeles_74"
+  - first:
+      213: -8460195960523159871
+    second: "Sprites de cueva helada en p\xEDxeles_75"
+  - first:
+      213: -790622395734880443
+    second: "Sprites de cueva helada en p\xEDxeles_76"
+  - first:
+      213: -7819062663208830422
+    second: "Sprites de cueva helada en p\xEDxeles_77"
+  - first:
+      213: -7096131931278612662
+    second: "Sprites de cueva helada en p\xEDxeles_78"
+  - first:
+      213: 5374091633625951952
+    second: "Sprites de cueva helada en p\xEDxeles_79"
+  - first:
+      213: 2123185713026364453
+    second: "Sprites de cueva helada en p\xEDxeles_80"
+  - first:
+      213: -3542900311538562924
+    second: "Sprites de cueva helada en p\xEDxeles_81"
+  - first:
+      213: 2611021771027111612
+    second: "Sprites de cueva helada en p\xEDxeles_82"
+  - first:
+      213: 2603938712138962386
+    second: "Sprites de cueva helada en p\xEDxeles_83"
+  - first:
+      213: 6823980946019015981
+    second: "Sprites de cueva helada en p\xEDxeles_84"
+  - first:
+      213: 2594897540012069164
+    second: "Sprites de cueva helada en p\xEDxeles_85"
+  - first:
+      213: -2971051801879849259
+    second: "Sprites de cueva helada en p\xEDxeles_86"
+  - first:
+      213: 6280561145381006675
+    second: "Sprites de cueva helada en p\xEDxeles_87"
+  - first:
+      213: 3084925659142628847
+    second: "Sprites de cueva helada en p\xEDxeles_88"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 551
+        width: 381
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74638450686132b0800000000000000
+      internalID: -5606585298155510659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_1"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 711
+        width: 5
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d23f35d86d2942c0800000000000000
+      internalID: -4446973228774116654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_2"
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 573
+        width: 131
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fbff798d390fda0800000000000000
+      internalID: -5913063752265122006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_3"
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 791
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642da53ceba9ef700800000000000000
+      internalID: 576067946461975110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_4"
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 761
+        width: 557
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6313521bcff2e43a0800000000000000
+      internalID: -6679348434993598154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_5"
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 637
+        width: 105
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de401378c6f9c92d0800000000000000
+      internalID: -3270563940904401683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_6"
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 599
+        width: 109
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b02611c66420c660800000000000000
+      internalID: 7403957811141812402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_7"
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 775
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8adb90cad98a4150800000000000000
+      internalID: 5857645837976066700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_8"
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 774
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1809fa6d0248f90e0800000000000000
+      internalID: -2260943211341049727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_9"
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 543
+        width: 143
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f597cbd65cdf6450800000000000000
+      internalID: 6084323887213417976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_10"
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 433
+        width: 115
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7432ad327cffd550800000000000000
+      internalID: 6187941980620862586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_11"
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 773
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1b7ef5b2f4b8da0800000000000000
+      internalID: -5941568235674029606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_12"
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 770
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976f2b6105b66e7f0800000000000000
+      internalID: -583661109975517575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_13"
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 717
+        width: 449
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403d328bf8d3056b0800000000000000
+      internalID: -5309676273190841596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_14"
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 447
+        width: 129
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c5b62e5339f2c40800000000000000
+      internalID: 5489768330429160506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_15"
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 743
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53ad0e08a79bb290800000000000000
+      internalID: -7873532775481105570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_16"
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 751
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8dd0b4135a6fab0800000000000000
+      internalID: -4974607107252954935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_17"
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 725
+        width: 147
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff5350a53509eb10800000000000000
+      internalID: 2011144436478861311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_18"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 593
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b13b36b34be86b0800000000000000
+      internalID: -5292094344945001579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_19"
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 593
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9131d267988cce720800000000000000
+      internalID: 2876894754701644569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_20"
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 598
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd8056fb1bffa3f0800000000000000
+      internalID: -887214504053535308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_21"
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 621
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e841e244bc02b50800000000000000
+      internalID: 6566471750397496931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_22"
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 369
+        width: 465
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c984af700fbf62c0800000000000000
+      internalID: -4436117099074254400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_23"
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 595
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd10d01183765aa0800000000000000
+      internalID: -6172619241094636066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_24"
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 589
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e591e11372d0bcce0800000000000000
+      internalID: -1383997998507353762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_25"
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 591
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2acc218cbd8d71d0800000000000000
+      internalID: -3351366706933216722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_26"
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 563
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e656041bfc73060800000000000000
+      internalID: 6933238511556718088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_27"
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 223
+        width: 147
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386078981176bb950800000000000000
+      internalID: 6465875015039911555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_28"
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 227
+        width: 159
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af59007df976c4e0800000000000000
+      internalID: -1961746458259923037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_29"
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 577
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a77c4b533a07a9e0800000000000000
+      internalID: -1610307126070315098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_30"
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 577
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004edb8984b92edf0800000000000000
+      internalID: -152388701274643456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_31"
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 563
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8aad7457d4d8940800000000000000
+      internalID: 5299977502596966615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_32"
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 575
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0262c611179245310800000000000000
+      internalID: 1392783750364669472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_33"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 147
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244396352f13c9a50800000000000000
+      internalID: 6529148476631626818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_34"
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 535
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f049a339a9674b0b0800000000000000
+      internalID: -5713811620959185905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_35"
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 557
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd16555b026bc220800000000000000
+      internalID: 2507205418377682373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_36"
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 557
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c2519dd2fd639d0800000000000000
+      internalID: -2794801130728248235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_37"
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 545
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7207ee77a3cddaad0800000000000000
+      internalID: -2689251258791989209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_38"
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 293
+        width: 181
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4838bc2fedc42f50800000000000000
+      internalID: 6855830959895885903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_39"
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 497
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef933b623049d0d30800000000000000
+      internalID: 4399335152265935358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_40"
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 518
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6363491d046afe0800000000000000
+      internalID: -1178182983631882586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_41"
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 540
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164e929451c366b70800000000000000
+      internalID: 8891860576409085025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_42"
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 529
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0842dbee0c945b980800000000000000
+      internalID: -8523825626740874112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_43"
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 146
+        width: 205
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9090afcddae3d90800000000000000
+      internalID: -7116059196599498305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_44"
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 493
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a640c268e6e7c6e0800000000000000
+      internalID: -1817230038857136471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_45"
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 511
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1343468d757fd4990800000000000000
+      internalID: -7399986656035195855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_46"
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 511
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcee32640b3510b0800000000000000
+      internalID: -5758631658509112143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_47"
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 455
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58832fb05e7a7680800000000000000
+      internalID: -8756547640199247779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_48"
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 477
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980a3b8aa00241ff0800000000000000
+      internalID: -66392864351608695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_49"
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 465
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d439f270b2db2f0800000000000000
+      internalID: -955560236069728956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_50"
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 450
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f42dd376d743550800000000000000
+      internalID: 6139670074385125209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_51"
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 449
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8faff1bf95c1e140800000000000000
+      internalID: 4747292771902009229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_52"
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 443
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e158f11dc4967a00800000000000000
+      internalID: 753953596121829863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_53"
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 447
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb764b2e4f9dd5e40800000000000000
+      internalID: 5646909153591191483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_54"
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 431
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8c440662549ecf0800000000000000
+      internalID: -222570675451934495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_55"
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 431
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e185ff953e07eb0800000000000000
+      internalID: -4724026033436090823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_56"
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 389
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e118a512695b2980800000000000000
+      internalID: -8562651988709862940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_57"
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 382
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4218d23547734ad30800000000000000
+      internalID: 4441736105245376804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_58"
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 375
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d6ec875b2d8dd00800000000000000
+      internalID: 997778994320272702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_59"
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 97
+        width: 235
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971c007ad5a0ce2d0800000000000000
+      internalID: -3248209833890889351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_60"
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 377
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81199d72dbecda80800000000000000
+      internalID: -8440612312316309105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_61"
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 387
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dae69a53ccd56240800000000000000
+      internalID: 4784472910747593432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_62"
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 213
+        width: 265
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85c3593453c8d610800000000000000
+      internalID: 1646280430310376846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_63"
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 369
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cbc7e483ee00c30800000000000000
+      internalID: 4323717567878052981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_64"
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 177
+        width: 207
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cd24e539c4501b0800000000000000
+      internalID: -5691058358287410170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_65"
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 369
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a178aa4540d732480800000000000000
+      internalID: -8925152578964388070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_66"
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 263
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e05301f29c0ade0800000000000000
+      internalID: -1323837086474367460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_67"
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 301
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4ea0aee74dc5d60800000000000000
+      internalID: 7880407089549075664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_68"
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 287
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dae0b1acd14071c0800000000000000
+      internalID: -4508030811136529708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_69"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 261
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e37d95d39d4167e0800000000000000
+      internalID: -1774051480867867673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_70"
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 15
+        width: 179
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435f1d0193b004610800000000000000
+      internalID: 1603293807067133236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_71"
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 227
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38aaf9c1d3f758d0800000000000000
+      internalID: -2857547356180928452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_72"
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 287
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91246cccde9ed1500800000000000000
+      internalID: 368707952066314777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_73"
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 221
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e5553ad5275cbc0800000000000000
+      internalID: -3763476167100375491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_74"
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 215
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c30bd09b01514330800000000000000
+      internalID: 3693322279537279945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_75"
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 227
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c682d21998579a80800000000000000
+      internalID: -8460195960523159871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_76"
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 179
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f01c6be152705f0800000000000000
+      internalID: -790622395734880443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_77"
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 193
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2afaea5feb1d7390800000000000000
+      internalID: -7819062663208830422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_78"
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 0
+        width: 345
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47e4dcfa99758d90800000000000000
+      internalID: -7096131931278612662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_79"
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 145
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de6cac1edb949a40800000000000000
+      internalID: 5374091633625951952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_80"
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 0
+        width: 179
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524fe192822177d10800000000000000
+      internalID: 2123185713026364453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_81"
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 134
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4988f1010f615dec0800000000000000
+      internalID: -3542900311538562924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_82"
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 95
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbed1ea87763c3420800000000000000
+      internalID: 2611021771027111612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_83"
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 0
+        width: 91
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d55ee1667c032420800000000000000
+      internalID: 2603938712138962386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_84"
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 107
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d5f71f386a3be50800000000000000
+      internalID: 6823980946019015981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_85"
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 27
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2154f4709de20420800000000000000
+      internalID: 2594897540012069164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_86"
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 34
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6daa3a024b4c6d0800000000000000
+      internalID: -2971051801879849259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_87"
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 45
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d2e8cf519092750800000000000000
+      internalID: 6280561145381006675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprites de cueva helada en p\xEDxeles_88"
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 21
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe52fa7da8bdfca20800000000000000
+      internalID: 3084925659142628847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Sprites de cueva helada en p\xEDxeles_0": -5606585298155510659
+      "Sprites de cueva helada en p\xEDxeles_1": -4446973228774116654
+      "Sprites de cueva helada en p\xEDxeles_10": 6187941980620862586
+      "Sprites de cueva helada en p\xEDxeles_11": -5941568235674029606
+      "Sprites de cueva helada en p\xEDxeles_12": -583661109975517575
+      "Sprites de cueva helada en p\xEDxeles_13": -5309676273190841596
+      "Sprites de cueva helada en p\xEDxeles_14": 5489768330429160506
+      "Sprites de cueva helada en p\xEDxeles_15": -7873532775481105570
+      "Sprites de cueva helada en p\xEDxeles_16": -4974607107252954935
+      "Sprites de cueva helada en p\xEDxeles_17": 2011144436478861311
+      "Sprites de cueva helada en p\xEDxeles_18": -5292094344945001579
+      "Sprites de cueva helada en p\xEDxeles_19": 2876894754701644569
+      "Sprites de cueva helada en p\xEDxeles_2": -5913063752265122006
+      "Sprites de cueva helada en p\xEDxeles_20": -887214504053535308
+      "Sprites de cueva helada en p\xEDxeles_21": 6566471750397496931
+      "Sprites de cueva helada en p\xEDxeles_22": -4436117099074254400
+      "Sprites de cueva helada en p\xEDxeles_23": -6172619241094636066
+      "Sprites de cueva helada en p\xEDxeles_24": -1383997998507353762
+      "Sprites de cueva helada en p\xEDxeles_25": -3351366706933216722
+      "Sprites de cueva helada en p\xEDxeles_26": 6933238511556718088
+      "Sprites de cueva helada en p\xEDxeles_27": 6465875015039911555
+      "Sprites de cueva helada en p\xEDxeles_28": -1961746458259923037
+      "Sprites de cueva helada en p\xEDxeles_29": -1610307126070315098
+      "Sprites de cueva helada en p\xEDxeles_3": 576067946461975110
+      "Sprites de cueva helada en p\xEDxeles_30": -152388701274643456
+      "Sprites de cueva helada en p\xEDxeles_31": 5299977502596966615
+      "Sprites de cueva helada en p\xEDxeles_32": 1392783750364669472
+      "Sprites de cueva helada en p\xEDxeles_33": 6529148476631626818
+      "Sprites de cueva helada en p\xEDxeles_34": -5713811620959185905
+      "Sprites de cueva helada en p\xEDxeles_35": 2507205418377682373
+      "Sprites de cueva helada en p\xEDxeles_36": -2794801130728248235
+      "Sprites de cueva helada en p\xEDxeles_37": -2689251258791989209
+      "Sprites de cueva helada en p\xEDxeles_38": 6855830959895885903
+      "Sprites de cueva helada en p\xEDxeles_39": 4399335152265935358
+      "Sprites de cueva helada en p\xEDxeles_4": -6679348434993598154
+      "Sprites de cueva helada en p\xEDxeles_40": -1178182983631882586
+      "Sprites de cueva helada en p\xEDxeles_41": 8891860576409085025
+      "Sprites de cueva helada en p\xEDxeles_42": -8523825626740874112
+      "Sprites de cueva helada en p\xEDxeles_43": -7116059196599498305
+      "Sprites de cueva helada en p\xEDxeles_44": -1817230038857136471
+      "Sprites de cueva helada en p\xEDxeles_45": -7399986656035195855
+      "Sprites de cueva helada en p\xEDxeles_46": -5758631658509112143
+      "Sprites de cueva helada en p\xEDxeles_47": -8756547640199247779
+      "Sprites de cueva helada en p\xEDxeles_48": -66392864351608695
+      "Sprites de cueva helada en p\xEDxeles_49": -955560236069728956
+      "Sprites de cueva helada en p\xEDxeles_5": -3270563940904401683
+      "Sprites de cueva helada en p\xEDxeles_50": 6139670074385125209
+      "Sprites de cueva helada en p\xEDxeles_51": 4747292771902009229
+      "Sprites de cueva helada en p\xEDxeles_52": 753953596121829863
+      "Sprites de cueva helada en p\xEDxeles_53": 5646909153591191483
+      "Sprites de cueva helada en p\xEDxeles_54": -222570675451934495
+      "Sprites de cueva helada en p\xEDxeles_55": -4724026033436090823
+      "Sprites de cueva helada en p\xEDxeles_56": -8562651988709862940
+      "Sprites de cueva helada en p\xEDxeles_57": 4441736105245376804
+      "Sprites de cueva helada en p\xEDxeles_58": 997778994320272702
+      "Sprites de cueva helada en p\xEDxeles_59": -3248209833890889351
+      "Sprites de cueva helada en p\xEDxeles_6": 7403957811141812402
+      "Sprites de cueva helada en p\xEDxeles_60": -8440612312316309105
+      "Sprites de cueva helada en p\xEDxeles_61": 4784472910747593432
+      "Sprites de cueva helada en p\xEDxeles_62": 1646280430310376846
+      "Sprites de cueva helada en p\xEDxeles_63": 4323717567878052981
+      "Sprites de cueva helada en p\xEDxeles_64": -5691058358287410170
+      "Sprites de cueva helada en p\xEDxeles_65": -8925152578964388070
+      "Sprites de cueva helada en p\xEDxeles_66": -1323837086474367460
+      "Sprites de cueva helada en p\xEDxeles_67": 7880407089549075664
+      "Sprites de cueva helada en p\xEDxeles_68": -4508030811136529708
+      "Sprites de cueva helada en p\xEDxeles_69": -1774051480867867673
+      "Sprites de cueva helada en p\xEDxeles_7": 5857645837976066700
+      "Sprites de cueva helada en p\xEDxeles_70": 1603293807067133236
+      "Sprites de cueva helada en p\xEDxeles_71": -2857547356180928452
+      "Sprites de cueva helada en p\xEDxeles_72": 368707952066314777
+      "Sprites de cueva helada en p\xEDxeles_73": -3763476167100375491
+      "Sprites de cueva helada en p\xEDxeles_74": 3693322279537279945
+      "Sprites de cueva helada en p\xEDxeles_75": -8460195960523159871
+      "Sprites de cueva helada en p\xEDxeles_76": -790622395734880443
+      "Sprites de cueva helada en p\xEDxeles_77": -7819062663208830422
+      "Sprites de cueva helada en p\xEDxeles_78": -7096131931278612662
+      "Sprites de cueva helada en p\xEDxeles_79": 5374091633625951952
+      "Sprites de cueva helada en p\xEDxeles_8": -2260943211341049727
+      "Sprites de cueva helada en p\xEDxeles_80": 2123185713026364453
+      "Sprites de cueva helada en p\xEDxeles_81": -3542900311538562924
+      "Sprites de cueva helada en p\xEDxeles_82": 2611021771027111612
+      "Sprites de cueva helada en p\xEDxeles_83": 2603938712138962386
+      "Sprites de cueva helada en p\xEDxeles_84": 6823980946019015981
+      "Sprites de cueva helada en p\xEDxeles_85": 2594897540012069164
+      "Sprites de cueva helada en p\xEDxeles_86": -2971051801879849259
+      "Sprites de cueva helada en p\xEDxeles_87": 6280561145381006675
+      "Sprites de cueva helada en p\xEDxeles_88": 3084925659142628847
+      "Sprites de cueva helada en p\xEDxeles_9": 6084323887213417976
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

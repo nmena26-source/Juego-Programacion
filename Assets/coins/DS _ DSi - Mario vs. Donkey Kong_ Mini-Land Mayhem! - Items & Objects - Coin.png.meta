@@ -1,0 +1,565 @@
+fileFormatVersion: 2
+guid: a2793ba73b95f7e40872f3661f0e8628
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3015050323866331248
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+      - Coin_0
+  - first:
+      213: -7171596899247276859
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+      - Coin_1
+  - first:
+      213: 4313941141526358243
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+      - Coin_2
+  - first:
+      213: -4418995572918887590
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+      - Coin_3
+  - first:
+      213: 842905284203309576
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+      - Coin_4
+  - first:
+      213: 1130386527616968231
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+      - Coin_5
+  - first:
+      213: 655605258465837774
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+      - Coin_6
+  - first:
+      213: -8784467105074226312
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+      - Coin_7
+  - first:
+      213: -3989903192687892997
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+      - Coin_8
+  - first:
+      213: 7471960558990704504
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+      - Coin_9
+  - first:
+      213: 327154943870906495
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+      - Coin_10
+  - first:
+      213: 8424832387112777410
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+      - Coin_11
+  - first:
+      213: -865716048312080255
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+      - Coin_12
+  - first:
+      213: 5675439667195142553
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+      - Coin_13
+  - first:
+      213: 7079466241882356041
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+      - Coin_14
+  - first:
+      213: -7706757199206855793
+    second: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+      - Coin_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+        - Coin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097550274b36826d0800000000000000
+      internalID: -3015050323866331248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+        - Coin_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccb21ced9e597c90800000000000000
+      internalID: -7171596899247276859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+        - Coin_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e82f9aac923edb30800000000000000
+      internalID: 4313941141526358243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+        - Coin_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b552470f29ca2c0800000000000000
+      internalID: -4418995572918887590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+        - Coin_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80aec3cd3e992bb00800000000000000
+      internalID: 842905284203309576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+        - Coin_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 161
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7262f7dce80ffaf00800000000000000
+      internalID: 1130386527616968231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+        - Coin_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 145
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec20cbf428d291900800000000000000
+      internalID: 655605258465837774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+        - Coin_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 129
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b52f4c5bd471680800000000000000
+      internalID: -8784467105074226312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+        - Coin_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 113
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf524a78f2401a8c0800000000000000
+      internalID: -3989903192687892997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+        - Coin_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 97
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fbe5e4a8cb1b760800000000000000
+      internalID: 7471960558990704504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+        - Coin_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 81
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7030f720b94a8400800000000000000
+      internalID: 327154943870906495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+        - Coin_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 65
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6301e5b640be470800000000000000
+      internalID: 8424832387112777410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+        - Coin_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 49
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188e00047db5cf3f0800000000000000
+      internalID: -865716048312080255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+        - Coin_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991e35bbe4633ce40800000000000000
+      internalID: 5675439667195142553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+        - Coin_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94974c2d9015f3260800000000000000
+      internalID: 7079466241882356041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects
+        - Coin_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b4713d8291c0590800000000000000
+      internalID: -7706757199206855793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects - Coin_0: -3015050323866331248
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects - Coin_1: -7171596899247276859
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects - Coin_10: 327154943870906495
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects - Coin_11: 8424832387112777410
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects - Coin_12: -865716048312080255
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects - Coin_13: 5675439667195142553
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects - Coin_14: 7079466241882356041
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects - Coin_15: -7706757199206855793
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects - Coin_2: 4313941141526358243
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects - Coin_3: -4418995572918887590
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects - Coin_4: 842905284203309576
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects - Coin_5: 1130386527616968231
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects - Coin_6: 655605258465837774
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects - Coin_7: -8784467105074226312
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects - Coin_8: -3989903192687892997
+      DS _ DSi - Mario vs. Donkey Kong_ Mini-Land Mayhem! - Items & Objects - Coin_9: 7471960558990704504
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
